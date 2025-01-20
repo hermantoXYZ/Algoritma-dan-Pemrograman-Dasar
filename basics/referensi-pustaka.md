@@ -1,5 +1,16 @@
 ---
 icon: magnifying-glass-arrows-rotate
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Referensi/Pustaka

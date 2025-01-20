@@ -20,4 +20,4 @@ layout:
 
 # Welcome
 
-Mata kuliah Algoritma dan Pemrograman yang bertujuan untuk membekali mahasiswa dengan pemahaman dasar mengenai logika pemrograman dan penyusunan algoritma. Dalam mata kuliah ini, mahasiswa belajar bagaimana merancang, menganalisis, dan mengimplementasikan solusi dari suatu masalah secara sistematis menggunakan bahasa pemrograman.
+Mata kuliah Algoritma dan Pemrograman Program Studi Bisnis Digital yang bertujuan untuk membekali mahasiswa dengan pemahaman dasar mengenai logika pemrograman dan penyusunan algoritma. Dalam mata kuliah ini, mahasiswa belajar bagaimana merancang, menganalisis, dan mengimplementasikan solusi dari suatu masalah secara sistematis menggunakan bahasa pemrograman.
