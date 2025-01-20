@@ -14,7 +14,7 @@ Pengantar Diskusi:
 
 > **"Saya heran ada orang-orang yang terlalu mengidolakan saya, padahal saya sangat mengidolakan** [**ilmuwan**](https://www.sindonews.com/topic/2373/ilmuwan) **muslim Al-Khawarizmi karena tanpa ilmu yang ditemukannya yakni Algoritma dan Aljabar, maka jangan pernah bermimpi ada facebook ini ,"ujar Mark** yang sangat fenomenal. Siapa sebenarnya Al-Khawarizmi ini?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Dikutip dalam buku Algoritma dan Pemograman (Syamsu Alam) Pada 1950, algoritma pertama kali digunakan pada Algoritma Eucliden (Euclid Algorithm). Euclid sendiri merupakan seorang matematikawan Yunani yang lahir sekitar 350 SM. Euclid menulis buku yang berjudul Element. Di dalam buku tersebut, jelaskan langkah-langkah untuk menemukan pembagi bersama terbesar (common greatest divisor) dari dua bilangan bulat.&#x20;
 
