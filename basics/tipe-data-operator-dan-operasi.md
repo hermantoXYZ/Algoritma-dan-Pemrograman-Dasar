@@ -4,6 +4,53 @@ icon: atom
 
 # Tipe Data, Operator dan Operasi
 
+## Variabel
+
+### 1. Apa itu Variabel?
+
+Variabel adalah tempat untuk menyimpan data atau nilai di dalam program. Dalam Python, variabel dapat dibuat dengan memberikan nama variabel dan sebuah nilai, tanpa perlu mendeklarasikan tipe datanya terlebih dahulu. Python secara otomatis menentukan tipe data berdasarkan nilai yang diberikan.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdSEOOWHG7MeNwvGpSehX_BbtDumjUim4sJfG-HHYkaPXo6mhXlwz2ffDCZuif6WqYRvPmTfAfvpv173rcqEtCL_o7tMmE_NHMGxyWt3JvWpX4BMfYo4Ipg3oztfnkqY0ofdpmraKGuS0rqkkKhAirotYUK?key=CAmvbDG6f-5iZFMmcQosyw" alt=""><figcaption><p>Anggap saja variabel adalah sebuah keranjang, tempat di mana kita bisa memasukkan sesuatu di dalamnya, yaitu data.</p></figcaption></figure>
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1aJFQ_AiKRK_1trowYd7RhSi6prB-0ggpN7Q1scF_ziHuKT2vRLbYyzaftwmYsCbr3LKRM1vj8A-DFq5Bg7ALE6VetIaSl0ewiAsDUo5xq5fqeALaVODrwfB0bbKOToP9DpxX1aGXhoLTId-OJyf9VKu?key=CAmvbDG6f-5iZFMmcQosyw" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+`Kotak keranjang` merepresentasikan variabel. `Buah` merepresentasikan data.
+
+Dan jenis-jenis buah tersebut `merepresentasikan tipe data`.
+{% endhint %}
+
+### **2. Cara Mendeklarasikan Variabel**
+
+Sintaks dasar untuk mendeklarasikan variabel:
+
+```python
+pythonCopyEditnama_variabel = nilai
+```
+
+**Contoh:**
+
+```python
+pythonCopyEditnama = "Alice"       # String
+umur = 25            # Integer
+tinggi = 1.65        # Float
+is_student = True    # Boolean
+```
+
+### **3. Aturan Penamaan Variabel**
+
+* **Harus dimulai dengan huruf** atau **underscore (\_)**, tetapi **tidak boleh dimulai dengan angka**.
+  * ✔️ `nama`
+  * ❌ `1nama`
+* Hanya boleh mengandung huruf, angka, atau underscore.
+  * ✔️ `nama_saya`
+  * ❌ `nama@saya`
+* Bersifat case-sensitive (huruf besar dan kecil dianggap berbeda).
+  * Contoh: `nama` dan `Nama` adalah dua variabel yang berbeda.
+* Tidak boleh menggunakan kata kunci Python sebagai nama variabel (seperti `if`, `for`, `while`, dll.).
+
+
+
 ## Tipe Data
 
 Tipe data adalah suatu media atau memori pada komputer yang digunakan untuk menampung informasi.
