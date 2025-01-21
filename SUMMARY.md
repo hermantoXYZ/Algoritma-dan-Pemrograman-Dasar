@@ -16,6 +16,7 @@
   * [Sejarah Python](basics/algoritma-dan-pemrograman-perintah-dasar-python/sejarah-python.md)
   * [Alasan Memilih Python](basics/algoritma-dan-pemrograman-perintah-dasar-python/alasan-memilih-python.md)
   * [Instalasi Python](basics/algoritma-dan-pemrograman-perintah-dasar-python/instalasi-python.md)
+  * [“Hello Dunia”](basics/algoritma-dan-pemrograman-perintah-dasar-python/hello-dunia.md)
 * [Operasi komparasi, logika, bitwise, string dan manipulasi](basics/operasi-komparasi-logika-bitwise-string-dan-manipulasi.md)
 * [Pemrograman: perintah seleksi (if... else)](basics/pemrograman.md)
 * [UTS / Evaluasi Tengah Semester](basics/uts-evaluasi-tengah-semester.md)

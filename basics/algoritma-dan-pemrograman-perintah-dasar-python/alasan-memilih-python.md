@@ -1,5 +1,5 @@
 ---
-icon: angle-right
+icon: python
 ---
 
 # Alasan Memilih Python

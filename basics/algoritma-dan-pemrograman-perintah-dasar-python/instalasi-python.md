@@ -1,5 +1,5 @@
 ---
-icon: angle-right
+icon: python
 ---
 
 # Instalasi Python
@@ -30,8 +30,10 @@ Python Interpreter Bawaan: Setiap instalasi Python datang dengan interpreter `Py
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdy2CPy0GSWREOldy6Fkj4a8405iJeiza1_PXuW9ryf2qbIvhvuCbgfU1jpSPC3UTzWaO0TUc3c-9h6pKfTEgdUSc86sv9574dbBtkRVEResKMhaQ0ayQV8ac1j7Mq_UxNlfsKTiS3F2cOIBVyictFoJru?key=CAmvbDG6f-5iZFMmcQosyw" alt=""><figcaption><p>Proses instal notebook melalui Vscode</p></figcaption></figure>
 
-* PyCharm: PyCharm adalah Integrated Development Environment (IDE) khusus Python yang dikembangkan oleh JetBrains. PyCharm menawarkan fitur-fitur kaya seperti penyorotan sintaksis, penyelesaian kode, debugging, pengelolaan proyek, integrasi sistem kontrol versi, dan lain-lain.
-* Replit (Cloud): adalah platform pengembangan yang berbasis cloud yang memungkinkan untuk menulis, menjalankan, dan berbagi kode dalam berbagai bahasa pemrograman secara online. Sehingga tidak memerlukan instalasi atau konfigurasi perangkat lunak tambahan.&#x20;
+* **PyCharm**: PyCharm adalah Integrated Development Environment (IDE) khusus Python yang dikembangkan oleh JetBrains. PyCharm menawarkan fitur-fitur kaya seperti penyorotan sintaksis, penyelesaian kode, debugging, pengelolaan proyek, integrasi sistem kontrol versi, dan lain-lain.
+* [**Replit (Cloud):** ](https://replit.com/~)adalah platform pengembangan yang berbasis cloud yang memungkinkan untuk menulis, menjalankan, dan berbagi kode dalam berbagai bahasa pemrograman secara online. Sehingga tidak memerlukan instalasi atau konfigurasi perangkat lunak tambahan.&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuybAlDnTz64y1C0zSnukHVFN2ub45zqCyuoCprtd5GTAE8_8jeTIDUcAYWpOBhdJOTwHMe4xSFdBA3dTCoBomHvn7EMcZxBdo8kODIi7PFnVy8YKrxRZEW31JjGlcwcEXot3SQQmRreVo3v5_ViGzOI_h?key=CAmvbDG6f-5iZFMmcQosyw" alt=""><figcaption></figcaption></figure>
 
 \
 \
