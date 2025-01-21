@@ -45,4 +45,12 @@ Horowitz, E., Sahni, S., & Rajasekaran, S. (2007). Fundamentals of Computer Algo
 
 
 {% endstep %}
+
+{% step %}
+Alam, S., Algoritma dan Pemrogaman Python. Makassar: Praksis Digital Nusantara
+
+{% embed url="https://docs.google.com/document/d/14qQPNKVavLkWPkJcbidU3o78njlLWXT-DZlSqYoryIw/edit?tab=t.0" %}
+
+
+{% endstep %}
 {% endstepper %}
