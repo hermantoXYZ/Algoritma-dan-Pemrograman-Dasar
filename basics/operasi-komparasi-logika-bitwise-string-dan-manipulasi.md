@@ -4,10 +4,77 @@ icon: dna
 
 # Operasi komparasi, logika, bitwise, string dan manipulasi
 
-GitBook integrations allow you to connect your GitBook spaces to some of your favorite platforms and services. You can install integrations into your GitBook page from the _Integrations_ menu in the top left.
+## Operasi logika
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/integrations-hero.png" alt=""><figcaption></figcaption></figure>
+Python mendukung berbagai operasi logika yang dapat digunakan untuk menggabungkan dan memanipulasi nilai kebenaran (boolean) dalam program
 
-### Types of integrations
+1. **Operator Logika AND (and):**
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Analytics</strong></td><td>Track analytics from your docs</td><td><a href="https://www.gitbook.com/integrations#analytics">https://www.gitbook.com/integrations#analytics</a></td><td></td><td></td></tr><tr><td><strong>Support</strong></td><td>Add support widgets to your docs</td><td><a href="https://www.gitbook.com/integrations#support">https://www.gitbook.com/integrations#support</a></td><td></td><td></td></tr><tr><td><strong>Interactive</strong></td><td>Add extra functionality to your docs</td><td><a href="https://www.gitbook.com/integrations#interactive">https://www.gitbook.com/integrations#interactive</a></td><td></td><td></td></tr><tr><td><strong>Visitor Authentication</strong></td><td>Protect your docs and require sign-in</td><td><a href="https://www.gitbook.com/integrations#visitor-authentication">https://www.gitbook.com/integrations#visitor-authentication</a></td><td></td><td></td></tr></tbody></table>
+Operator and mengembalikan True jika kedua ekspresi yang diberikan sama-sama True, dan mengembalikan False jika salah satu atau kedua ekspresi tersebut False.
+
+{% code title="Operator Logika AND (and):" lineNumbers="true" %}
+```python
+// Some code
+a = True
+b = False
+c = True
+print(a and b)  # Output: False
+print(a and c)  # Output: True
+```
+{% endcode %}
+
+2. **Operator Logika OR (or)**
+
+Operator or mengembalikan True jika salah satu atau kedua ekspresi yang diberikan True, dan mengembalikan False jika kedua ekspresi tersebut False.
+
+<pre class="language-python" data-title="Operator Logika OR (or)" data-line-numbers><code class="lang-python">// Some code
+<strong>a = True
+</strong>b = False
+c = True
+print(a or b)  # Output: True
+print(b or c)  # Output: True
+</code></pre>
+
+3. Operator Logika NOT (not)
+
+Operator not digunakan untuk membalik nilai kebenaran (boolean) dari suatu ekspresi. Jika ekspresi bernilai True, maka not akan mengembalikan False, dan sebaliknya.
+
+{% code lineNumbers="true" %}
+```python
+// Some code
+a = True
+b = False
+print(not a)  # Output: False
+print(not b)  # Output: True
+```
+{% endcode %}
+
+4. Kombinasi Operator Logika
+
+Dalam contoh ini, ekspresi (a and b) menghasilkan False, ekspresi (c and not d) menghasilkan True, dan karena menggunakan operator logika OR (or), hasil akhirnya adalah True.
+
+{% code lineNumbers="true" %}
+```python
+// Some code
+a = True
+b = False
+c = True
+d = False
+print((a and b) or (c and not d))  # Output: True
+```
+{% endcode %}
+
+5. Penggunaan Operasi Logika dalam Pernyataan If
+
+{% code lineNumbers="true" %}
+```python
+// Some code
+a = True
+b = False
+
+if a and not b:
+    print("Kondisi terpenuhi")
+else:
+    print("Kondisi tidak terpenuhi")
+```
+{% endcode %}
