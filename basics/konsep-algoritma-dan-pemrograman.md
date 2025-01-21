@@ -4,7 +4,7 @@ icon: comment-code
 
 # Konsep Algoritma dan Pemrograman
 
-**Berbicara algoritma** merupakan sekumpulan langkah logis yang disusun secara sistematis untuk menyelesaikan suatu masalah sementara pemrograman adalah Proses menulis, menguji, dan memperbaiki kode (problem solving) untuk mengimplementasikan algoritma menggunakan bahasa **pemrograman.**
+**Berbicara algoritma** merupakan sekumpulan langkah logis yang disusun secara sistematis untuk menyelesaikan suatu masalah sementara pemrograman adalah Proses menulis, menguji, dan memperbaiki kode `(problem solving)` untuk mengimplementasikan algoritma menggunakan bahasa **pemrograman.**
 
 ## Studi Kasus 1
 
@@ -44,3 +44,37 @@ Memasak mie instan adalah aktivitas sederhana yang dapat direpresentasikan sebag
 9. Sajikan: Mie instan siap untuk dinikmati.
 
 Langkah-langkah logis dan berurutan diatas memastikan proses selesai dengan hasil yang diinginkan. Algoritma ini dapat dimodifikasi sesuai kebutuhan, seperti menambahkan topping (telur, sayuran) atau mengatur tingkat kematangan mie.
+
+## Studi Kasus 3
+
+#### Algoritma Studi Kasus Pembayaran Uang Kuliah Hingga KRS dan Perkuliahan
+
+1. **Mulai**
+2. Input data mahasiswa:
+   * Nama
+   * NIM
+   * Program studi
+   * Semester
+3. Periksa tagihan uang kuliah semester berjalan:
+   * Jumlah tagihan uang kuliah.
+   * Pilihan pembayaran:
+     * Lakukan pembayaran M-Banking atau **transfer bank**.
+   * Konfirmasi pembayaran.
+   * Jika pembayaran berhasil:
+     * Update status pembayaran menjadi **lunas**.
+   * Jika pembayaran gagal:
+     * Tampilkan pesan kegagalan dan ulangi proses pembayaran.
+4. Setelah status pembayaran **lunas**, buka akses ke portal KRS:
+   * Tampilkan daftar mata kuliah yang dapat diambil.
+   * Input mata kuliah yang ingin diambil mahasiswa.
+   * Pastikan jumlah SKS tidak melebihi batas maksimal.
+5. Simpan KRS:
+   * Periksa apakah semua mata kuliah telah memenuhi persyaratan prasyarat.
+   * Jika ya, simpan KRS.
+   * Jika tidak, tampilkan pesan kesalahan dan minta mahasiswa mengedit KRS.
+6. Cetak KRS untuk arsip mahasiswa.
+7. Aktivasi status mahasiswa untuk perkuliahan:
+   * Tandai mahasiswa sebagai aktif di sistem.
+   * Informasikan jadwal perkuliahan.
+8. Mulai perkuliahan sesuai jadwal:
+9. **Selesai**
