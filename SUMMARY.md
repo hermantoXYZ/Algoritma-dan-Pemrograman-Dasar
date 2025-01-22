@@ -25,6 +25,7 @@
 * [Perintah List Pada Python](basics/perintah-list-pada-python.md)
 * [Mampu menggunakan Python untuk Algoritma dan Pemrograman:](basics/mampu-menggunakan-python-untuk-algoritma-dan-pemrograman.md)
 * [Menggunakan Perintah External File Pada Python](basics/menggunakan-perintah-external-file-pada-python.md)
+* [Python & Machine Learning](basics/python-and-machine-learning.md)
 * [UAS / Evaluasi Akhir Semester](basics/uas-evaluasi-akhir-semester.md)
 * [Referensi/Pustaka](basics/referensi-pustaka.md)
 
